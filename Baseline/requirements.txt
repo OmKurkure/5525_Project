@@ -1,0 +1,8 @@
+pandas
+chz
+requests
+tinker
+tinker-cookbook
+numpy
+tqdm
+orjson

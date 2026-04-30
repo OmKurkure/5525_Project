@@ -39,5 +39,5 @@ From-scratch transformer encoder experiments. A small transformer is trained fro
 
 LLM baselines fine-tuned on raw text only (no phonetic conversion).
 
-- `train.py` — fine-tunes Llama and Qwen models on intent classification using LoRA
+- `train.py` — fine-tunes Llama and Qwen models on intent classification using LoRA. Training is done on Tinker. 
 - `data/` — 400 training and 100 test examples for each of Haitian Creole and Italian

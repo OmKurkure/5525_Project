@@ -28,7 +28,7 @@ CamemBERT-based experiments. The model uses CamemBERT's pretrained French weight
 
 From-scratch transformer encoder experiments. A small transformer is trained from scratch on phone or phoneme sequences.
 
-- `FinetuningData/` — fine-tuning data for intent classification
+- `FinetuningData/` — fine-tuning data for intent classification. Similar structure as Finetuning Dir in CamemBERT directory, only difference it does not raw italian text datasets since the encoder does not require them. 
 - `PretrainingData/` — MLM pretraining data:
   - `FrHt/` — French--Haitian Creole pretraining data
   - `FrIt/` — French--Italian pretraining data

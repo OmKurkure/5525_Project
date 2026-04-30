@@ -1,4 +1,0 @@
-{"name": "final_epoch", "epoch": 1, "state_path": "tinker://7de22e36-1069-56b0-a4fa-4eaf4b45407c:train:0/weights/final_epoch", "sampler_path": "tinker://7de22e36-1069-56b0-a4fa-4eaf4b45407c:train:0/sampler_weights/final_epoch"}
-{"name": "final_epoch", "epoch": 1, "state_path": "tinker://3af8ab06-0914-5efb-a558-d461cd992926:train:0/weights/final_epoch", "sampler_path": "tinker://3af8ab06-0914-5efb-a558-d461cd992926:train:0/sampler_weights/final_epoch"}
-{"name": "final_epoch", "epoch": 5, "state_path": "tinker://b7572554-9fd8-57a6-85da-7925f1ad3aea:train:0/weights/final_epoch", "sampler_path": "tinker://b7572554-9fd8-57a6-85da-7925f1ad3aea:train:0/sampler_weights/final_epoch"}
-{"name": "final_epoch", "epoch": 1, "state_path": "tinker://d86bfc04-b13a-530c-aee5-88402ab2cdc8:train:0/weights/final_epoch", "sampler_path": "tinker://d86bfc04-b13a-530c-aee5-88402ab2cdc8:train:0/sampler_weights/final_epoch"}

@@ -15,8 +15,8 @@ The repo is organized into three top-level directories, one per model family.
 CamemBERT-based experiments. The model uses CamemBERT's pretrained French weights with the input vocabulary resized for the phone vocabulary.
 
 - `FinetuningData/` — fine-tuning data for intent classification, organized by language:
-  - `Haitian/` — Haitian Creole training and test examples
-  - `Italian/` — Italian training and test examples
+  - `Haitian/` — Haitian Creole 400 training and 100 test examples
+  - `Italian/` — Italian 400 training and 100 test examples
 - `PretrainingData/` — MLM pretraining data, organized by language pair:
   - `FrHt/` — French--Haitian Creole pretraining data
   - `FrIt/` — French--Italian pretraining data
@@ -28,7 +28,7 @@ CamemBERT-based experiments. The model uses CamemBERT's pretrained French weight
 
 From-scratch transformer encoder experiments. A small transformer is trained from scratch on phone or phoneme sequences.
 
-- `FinetuningData/` — fine-tuning data for intent classification (same structure as the CamemBERT directory, but data is formatted for the from-scratch encoder)
+- `FinetuningData/` — fine-tuning data for intent classification
 - `PretrainingData/` — MLM pretraining data:
   - `FrHt/` — French--Haitian Creole pretraining data
   - `FrIt/` — French--Italian pretraining data
